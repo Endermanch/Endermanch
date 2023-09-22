@@ -8,7 +8,7 @@ However, I'm mostly known for messing with Windows on an unusally sophisticated 
 I have over 300K subscribers on [YouTube](https://youtube.com/endermanch) and over 15K followers on [Twitter](https://twitter.com/endermanch).  
 **I am [Enderman](https://enderman.ch), but you can call me Andrew.**
 
-<img align="right" alt="Enderman" width="200" src="https://github.com/Endermanch/Endermanch/blob/main/enderman.gif" />
+<img align="right" alt="Enderman" width="180" src="https://github.com/Endermanch/Endermanch/blob/main/enderman.gif" />
 
 * 📚 Maths/CompSci lecturer *(incidentally, a CompSci student)*
 * 🐱‍💻 Middle low-level developer
