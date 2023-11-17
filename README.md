@@ -5,7 +5,7 @@
 I primarily code in **C/++** as a hobby and officially work as a **full-stack developer**.
 However, I'm mostly known for messing with Windows on an unusally sophisticated low level. 🛠
 
-I have over 300K subscribers on [YouTube](https://youtube.com/endermanch) and over 15K followers on [Twitter](https://twitter.com/endermanch).  
+I have over 300K subscribers on [YouTube](https://go.enderman.ch/youtube) and over 20K followers on [Twitter](https://go.enderman.ch/twitter).  
 **I am [Enderman](https://enderman.ch), but you can call me Andrew.**
 
 <img align="right" alt="Enderman" width="180" src="https://github.com/Endermanch/Endermanch/blob/main/enderman.gif" />
