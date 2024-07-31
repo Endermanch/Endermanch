@@ -35,6 +35,6 @@ Multiple, actually. Most of my videos and projects I am proud of. But here are t
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=endermanch&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Now playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q4k7jyo6jy6wvexdk4bgknxbeu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31q4k7jyo6jy6wvexdk4bgknxbeu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q4k7jyo6jy6wvexdk4bgknxbeu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=6b03b0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31q4k7jyo6jy6wvexdk4bgknxbeu&redirect=true)
 
 <sub>*This README file is best viewed on <strong>Windows 10</strong></sub>
